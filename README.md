@@ -1,2 +1,2 @@
 # web
-Little website porfolio
+This repo includes a little website porfolio
